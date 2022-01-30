@@ -6,6 +6,8 @@ stackoverflow, machinelearningmastery, stackexchange
 
 # tools
 
-selenium python, pandas, tensorflow
+selenium python, pandas, tensorflow, google colab
 
 ## sumber data dari bps
+
+### create by sufyan
